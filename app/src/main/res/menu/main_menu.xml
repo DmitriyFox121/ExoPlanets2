@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/about_menu_item"
+    android:title="О программе"/>
+
+    <item
+        android:id="@+id/exoplanets_menu_item"
+        android:title="Что такое экзопланеты"/>
+</menu>
